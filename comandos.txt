@@ -1,0 +1,6 @@
+Comandos de Git
+
+git init        -inicia un repositorio
+git status      -muestra cambios
+git add archivo -añade archivo
+git log         -muestra historial
